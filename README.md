@@ -86,3 +86,6 @@ Calculates the average days a booking stays on the waiting list.
 This project aims to provide hotel management and marketing teams with actionable insights to optimize booking strategies, understand customer behavior, and enhance overall service delivery.
 
 ---
+![Hotel-Booking-demand](sec1.png)
+![Hotel-Booking-demand](sec1.1.png)
+![Hotel-Booking-demand](sec2.png)
