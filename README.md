@@ -69,15 +69,6 @@ Average of Waiting = AVERAGE('Hotel booking Demand (1)'[days_in_waiting_list])
 ```
 Calculates the average days a booking stays on the waiting list.
 
----
-
-## Chart Construction Tips
-
-- **Line and Stacked Column Chart for Top 7 Countries**:
-    1. Create a measure to calculate reservation counts.
-    2. Use "Top N" filter on Country based on reservation count.
-    3. Add `Arrival Date Year` as column series for better year-over-year comparison.
-    4. X-axis: Countries | Y-axis: Reservation count.
 
 ---
 
